@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmad (he/him)
 
-<!--
-**Muhammadahmad14/Muhammadahmad14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Web Developer focused on building clean, responsive, and functional websites.
 
-Here are some ideas to get you started:
+### 🧠 Tech Stack:
+- 💻 PHP & Laravel (Backend)
+- 🗃️ SQL Databases
+- 🌐 HTML5, CSS3, JavaScript (Frontend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning more advanced Laravel features and working on solid summer projects to grow my portfolio.  
+
+### 🚀 Goals:
+- Build full-stack web applications
+- Explore jQuery and Vue.js after Laravel
+- Create a professional portfolio site
+
+---
+
+📫 **Connect with me:**  
+Linkden: https://www.linkedin.com/in/muhammad-ahmad-70b16334a/ | 
+Email: ahmadbuzdar76@gmail.com
