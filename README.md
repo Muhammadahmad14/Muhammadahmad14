@@ -13,7 +13,7 @@
 
 ### 🎯 Current Goals
 - 💡 Building full-stack Laravel projects
-- 🔍 Learning jQuery & Vue.js next
+- 🔍 Learning React & Node js
 - 🌟 Growing my developer portfolio during summer vacation
 
 ---
@@ -24,15 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadahmad14&show_icons=true&theme=radical" alt="Ahmad's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadahmad14&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🏆 Top Languages
 
