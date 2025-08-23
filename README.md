@@ -6,14 +6,14 @@
 ### 💻 Tech Stack
 - 🧠 Backend: **PHP**, **Laravel**
 - 🗃️ Database: **MySQL / SQL Server**
-- 🌐 Frontend: **HTML5**, **CSS3**, **JavaScript**
+- 🌐 Frontend: **HTML5**, **CSS3**, **JavaScript**, **React**
 - 🧰 Tools: **XAMPP**, **VS Code**, **GitHub**, **Bootstrap**
 
 ---
 
 ### 🎯 Current Goals
 - 💡 Building full-stack Laravel projects
-- 🔍 Learning React & Node js
+- 🔍 Learning React 
 - 🌟 Growing my developer portfolio during summer vacation
 
 ---
@@ -23,7 +23,6 @@
 - 📧 **Email**: [ahmadbuzdar76@gmail.com](mailto:ahmadbuzdar76@gmail.com)
 
 ---
-
 
 ### 🏆 Top Languages
 
